@@ -1,0 +1,10 @@
+.imagemFundo{
+    background-image: url("https://pernambucodigital.com.br/wp-content/uploads/2016/10/background-site.jpg");
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}

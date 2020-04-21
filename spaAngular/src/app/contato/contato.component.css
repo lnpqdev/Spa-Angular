@@ -1,0 +1,13 @@
+.formulario {
+    background-image: url("https://pernambucodigital.com.br/wp-content/uploads/2016/10/background-site.jpg");
+    
+
+    width: 50%;
+    height: 50%;
+    position: relative;
+    top: 25%;
+    left: 25%;
+    bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
